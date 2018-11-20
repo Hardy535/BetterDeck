@@ -1,1 +1,0 @@
-{"$type":"BetterDeck.Classes.Profile, BetterDeck","brightness":0,"buttons":[]}
