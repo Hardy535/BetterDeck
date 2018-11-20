@@ -1,0 +1,13 @@
+F:\BetterDeck\BetterDeck\Libraries\TS3QueryLib.NET\TS3QueryLib.Core.Framework\bin\Debug\TS3QueryLib.Core.Framework.XML
+F:\BetterDeck\BetterDeck\Libraries\TS3QueryLib.NET\TS3QueryLib.Core.Framework\bin\Debug\TS3QueryLib.Core.Framework.dll
+F:\BetterDeck\BetterDeck\Libraries\TS3QueryLib.NET\TS3QueryLib.Core.Framework\bin\Debug\TS3QueryLib.Core.Framework.pdb
+F:\BetterDeck\BetterDeck\Libraries\TS3QueryLib.NET\TS3QueryLib.Core.Framework\obj\Debug\TS3QueryLib.Core.Framework.csprojAssemblyReference.cache
+F:\BetterDeck\BetterDeck\Libraries\TS3QueryLib.NET\TS3QueryLib.Core.Framework\obj\Debug\TS3QueryLib.Core.Framework.csproj.CoreCompileInputs.cache
+F:\BetterDeck\BetterDeck\Libraries\TS3QueryLib.NET\TS3QueryLib.Core.Framework\obj\Debug\TS3QueryLib.Core.Framework.dll
+F:\BetterDeck\BetterDeck\Libraries\TS3QueryLib.NET\TS3QueryLib.Core.Framework\obj\Debug\TS3QueryLib.Core.Framework.pdb
+F:\BetterDeck\BetterDeck\Libraries\TS3QueryLib.NET\Source\TS3QueryLib.Core.Framework\bin\Debug\TS3QueryLib.Core.Framework.XML
+F:\BetterDeck\BetterDeck\Libraries\TS3QueryLib.NET\Source\TS3QueryLib.Core.Framework\bin\Debug\TS3QueryLib.Core.Framework.dll
+F:\BetterDeck\BetterDeck\Libraries\TS3QueryLib.NET\Source\TS3QueryLib.Core.Framework\bin\Debug\TS3QueryLib.Core.Framework.pdb
+F:\BetterDeck\BetterDeck\Libraries\TS3QueryLib.NET\Source\TS3QueryLib.Core.Framework\obj\Debug\TS3QueryLib.Core.Framework.csproj.CoreCompileInputs.cache
+F:\BetterDeck\BetterDeck\Libraries\TS3QueryLib.NET\Source\TS3QueryLib.Core.Framework\obj\Debug\TS3QueryLib.Core.Framework.dll
+F:\BetterDeck\BetterDeck\Libraries\TS3QueryLib.NET\Source\TS3QueryLib.Core.Framework\obj\Debug\TS3QueryLib.Core.Framework.pdb
