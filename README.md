@@ -1,4 +1,4 @@
-# This project is discontinued and the code is pretty messy as I never took the time to clean it up. Feel free to use this project for your needs.
+### This project is discontinued and the code is pretty messy as I never took the time to clean it up. Feel free to use this project for your needs.
 
 # BetterDeck
 
