@@ -19,6 +19,7 @@ BetterDeck is supposed to be an alternative program for the Elgato Stream Deck. 
 
 - Open Broadcaster support (change scenes, un/mute input and output, ...)
 - Twitch API support (send chat messages, use commands, ...)
+- A lot of UI for stuff that currently has to be changed in the code
 
 # Bugs
 
